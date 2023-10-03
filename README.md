@@ -32,28 +32,54 @@ Tools : Python 3.7.6, Pandas, Jupyter Notebook,Matplotlib
 
 ## Results
 
-##### Summary Statistics
 
-##### Number of Mice per Drug Regiem
+### Summary Statistics
+![Summary Statistic](https://github.com/ShubhangiBidkar/Data-Visualization-challenge/assets/38162670/2e2a9ab7-e128-4e14-b1c9-3c1200471058)
 
-Using both pandas and matplotlib methods
 
-• With pandas
-
-• With Matplotlib
-
-##### Distribution of male vs female mice across all the treatements
+### Number of Mice per Drug Regiem
 
 Using both pandas and matplotlib methods
 
 • With pandas
 
+![pd_bar_mice_per_regimen](https://github.com/ShubhangiBidkar/Data-Visualization-challenge/assets/38162670/5651efb3-842c-467b-bcdb-098c9943d74c)
+
+
 • With Matplotlib
 
-##### Fours regimens: Capomulin, Ramicane, Infubinol, and Ceftamin
+![py_bar_mice_per_regimen](https://github.com/ShubhangiBidkar/Data-Visualization-challenge/assets/38162670/8ab46878-aa31-4064-885f-f37a6ed73fa1)
 
-##### Mouse ID 1509's Tumor Vol. in Capomulin Treatment
 
-##### Weight vs Average Tumor Volume (Capomulin regimen)
+### Distribution of male vs female mice across all the treatements
 
-##### Corelation between Weight vs Average Tumor Volume (Capomulin regimen)
+Using both pandas and matplotlib methods
+
+• With pandas
+
+![pd_pie_mice_sex](https://github.com/ShubhangiBidkar/Data-Visualization-challenge/assets/38162670/99cec1fb-22d0-4019-9c71-1702d5964858)
+
+
+• With Matplotlib
+
+![py_pie_mice_sex](https://github.com/ShubhangiBidkar/Data-Visualization-challenge/assets/38162670/1a9ac0c3-3999-488b-a5f2-f49be20d4d45)
+
+
+### Fours regimens: Capomulin, Ramicane, Infubinol, and Ceftamin
+
+![final_tumor_boxplot](https://github.com/ShubhangiBidkar/Data-Visualization-challenge/assets/38162670/a562e641-8cf5-47ff-9090-bff5edb60dfe)
+
+
+### Mouse ID 1509's Tumor Vol. in Capomulin Treatment
+
+![l509_tumor_plot](https://github.com/ShubhangiBidkar/Data-Visualization-challenge/assets/38162670/ebe50a4c-3c2d-44c4-9b86-22ad584c22b0)
+
+
+### Weight vs Average Tumor Volume (Capomulin regimen)
+
+![scatter_weight_tumor](https://github.com/ShubhangiBidkar/Data-Visualization-challenge/assets/38162670/11c713bf-6d69-4953-89e6-a55042c14666)
+
+
+### Corelation between Weight vs Average Tumor Volume (Capomulin regimen)
+
+![scatter_weight_tumor_linear](https://github.com/ShubhangiBidkar/Data-Visualization-challenge/assets/38162670/267eca7d-1320-4309-afac-3b1f59770fa1)
